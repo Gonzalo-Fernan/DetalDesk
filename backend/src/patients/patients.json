@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name":"Pepe",
+    "last_name": "Moreno",
+    "address": "av sabattini",
+    "phone_number": "4822217",
+    "email": "pepe@mail.com",
+    "thumbnail": ""
+  },
+  {
+    "id": 2,
+    "name":"Dolores",
+    "last_name": "De Culo",
+    "address": "av sabattini",
+    "phone_number": "4822217",
+    "email": "carmen@mail.com",
+    "thumbnail": "/paciente1.jpg"
+  },
+  {
+    "id": 3,
+    "name":"Juan Carlos",
+    "last_name": "Mandanga",
+    "address": "av sabattini",
+    "phone_number": "4822217",
+    "email": "jc@mail.com",
+    "thumbnail": "/paciente2.jpg"
+  },
+  {
+    "id": 4,
+    "name":"Fulana",
+    "last_name": "De Tal",
+    "address": "av sabattini",
+    "phone_number": "4822217",
+    "email": "fulana@mail.com",
+    "thumbnail": "/paciente3.jpg"
+  }
+]
