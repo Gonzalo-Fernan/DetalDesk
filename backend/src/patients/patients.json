@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name":"Pepe",
+    "name": "Pepe",
     "last_name": "Moreno",
     "address": "av sabattini",
     "phone_number": "4822217",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name":"Dolores",
+    "name": "Dolores",
     "last_name": "De Culo",
     "address": "av sabattini",
     "phone_number": "4822217",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name":"Juan Carlos",
+    "name": "Juan Carlos",
     "last_name": "Mandanga",
     "address": "av sabattini",
     "phone_number": "4822217",
@@ -28,11 +28,61 @@
   },
   {
     "id": 4,
-    "name":"Fulana",
+    "name": "Fulana",
     "last_name": "De Tal",
     "address": "av sabattini",
     "phone_number": "4822217",
     "email": "fulana@mail.com",
     "thumbnail": "/paciente3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Manolo",
+    "last_name": "Pastorino",
+    "address": "jkdbfskdjbf",
+    "phone_number": "3551561",
+    "email": "mano@mail.com",
+    "doctor": "Pinchila",
+    "thumbnail": "../../backend/public/uploads/patients/1726342552082-Manolo.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Gonso",
+    "last_name": "Fernandez",
+    "address": "vergamota",
+    "phone_number": "351351",
+    "email": "gondev85@gmail.com",
+    "doctor": "El viejo",
+    "thumbnail": "../../backend/public/uploads/patients/1726359939845-GonFotoRedes.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Gonso",
+    "last_name": "Fernandez",
+    "address": "vergamota",
+    "phone_number": ".341531",
+    "email": "gonciv@hotmail.com",
+    "doctor": "El viejo",
+    "thumbnail": "../../backend/public/uploads/patients/1726971372237-GonFotoRedes.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Ezequiel",
+    "last_name": "Pussy",
+    "address": "vergamota",
+    "phone_number": "351351521",
+    "email": "dios@mail.com",
+    "doctor": "Pinchila",
+    "thumbnail": "../../backend/public/uploads/patients/1726972671741-IMG_20171119_095110.jpg"
+  },
+  {
+    "id": 9,
+    "name": "rafa ",
+    "last_name": "UTN",
+    "address": "jkdbfskdjbf",
+    "phone_number": "51651651",
+    "email": "arroz@mail.com",
+    "doctor": "batman",
+    "thumbnail": "../../backend/public/uploads/patients/1740800697213-GonFotoRedes.jpeg"
   }
 ]
